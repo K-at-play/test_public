@@ -7,3 +7,5 @@ React
 ### Code Formatter
 
 React (JavaSript, JSX, HTML, CSS) -> Prettier (https://prettier.io)
+
+# Something completely new
