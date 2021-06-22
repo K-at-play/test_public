@@ -3,7 +3,7 @@ MySQL
 Python/FastAPI  
 React
 
-## Code Formatter
+### Code Formatter
 React (JavaSript, JSX, HTML, CSS) -> Prettier (https://prettier.io)
 
 # Deployment Instructions
