@@ -8,4 +8,4 @@ React
 
 React (JavaSript, JSX, HTML, CSS) -> Prettier (https://prettier.io)
 
-# Something completely new
+# Something _OLD_ _SCHOOL_
