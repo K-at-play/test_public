@@ -8,9 +8,10 @@ React (JavaSript, JSX, HTML, CSS) -> Prettier (https://prettier.io)
 
 # Deployment Instructions
 ## On local development machine
-Make sure to follow the instructions on starting the backend too
+Follow the instructions on starting the backend too
 ```
-$ cd frontend
-$ npm i
 $ npm start
 ```
+
+Check this *and* and this *must*.  
+Check this _and_ and this _must_.
