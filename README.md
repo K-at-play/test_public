@@ -1,3 +1,3 @@
 # New Title
-First line
+First line\
 Second line
